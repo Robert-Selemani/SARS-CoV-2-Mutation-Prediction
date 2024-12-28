@@ -7,7 +7,7 @@ COVID-19 vaccines, which were based on the initial SARS-CoV-2 Spike Protein
 sequence from the Alpha variant detected in Wuhan, China, in December 2019. 
 As the virus evolves, these vaccines become less effective against new, often more 
 infectious strains. This research aims to address this issue by enhancing the 
-prediction of viral evolution to streamline vaccine development. The researchers 
+prediction of viral evolution to streamline vaccine development. The research 
 utilised a Long Short-Term Memory (LSTM) Artificial Neural Network to predict 
 potential mutations in the SARS-CoV-2 Spike Protein sequences. By applying the 
 algorithm to time-series data of the Spike Protein sequences, the trained model 
