@@ -21,4 +21,4 @@ Keywords: Artificial Neural Network, Long Short-Term Memory, SARS-CoV-2,
 Spike Protein Sequence 
 
 ## License & Rights
-Commercial use of this source code in full or in part will require a written approval by the author
+Commercial use of this source code in full or in part will require a written approval by the author.
